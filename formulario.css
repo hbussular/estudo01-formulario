@@ -1,0 +1,26 @@
+body {
+    background-color: #383a42;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.formulario {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.formulario-titulo {
+    font-weight: bold;
+}
+
+.formulario-descricao {
+    height: 100px;
+    max-height: 100px;
+    min-height: 100px;
+    max-width: 100%;
+}
